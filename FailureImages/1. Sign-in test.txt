@@ -1,0 +1,8 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https://immune-skunk-71.clerk.accounts.dev/v1/client/sign_ins?_clerk_js_version=5.7.1&__clerk_db_jwt=eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJkZXYiOiJkdmJfMml5TkRUN29OM1pEbkFzd3lCNXFqTzVhd1dUIn0.AY-GpPIf51higp6-7AHKcBvu9QQiukVwDh0dN2t4NUolX7DOJuIeeZwq86HL1wE6RYcCm1YBgdykfIcETLCB7ePUqDzjYyTJVxQvrCpp3tuhCe2fPGduSrR7l_69KsaiHqQR_lcbcVSj3sy8lmG-xKBHKT5XmnzOqqL1gdoAbiiG7bB_IHh1WYbgFjYrYuY5eduFhdRbsYvDbrDdYyvseLLLvTp0L6P-1OFtC3FbZfjENGRY-uYY8KSWp8Wfk8JPagT0y8paTtRcL3gzGMGZh5RSsI5ZE5NVsMuBJsxbyCEanRCDBxli8y1CmGLCcBHIwM2mMh7hAcSasrpLKwIteA - Failed to load resource: the server responded with a status of 422 ()",
+        "timestamp": 1720458767184,
+        "type": ""
+    }
+]

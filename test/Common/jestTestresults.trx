@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="cb8a80b8-ea9a-4059-9c8a-22e23aa574a4" name="j.mccay@jmccay3116 2024-07-08T21:02:24.027Z" runUser="j.mccay" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Jest test run" id="b132c2d3-7bb1-43eb-ab60-bcc3bce99e1e"/>
+  <Times creation="2024-07-08T21:02:24.027Z" queuing="2024-07-08T21:02:24.027Z" start="2024-07-08T21:02:24.027Z" finish="2024-07-08T21:02:24.027Z"/>
+  <ResultSummary outcome="Passed">
+    <Counters total="4" executed="1" passed="1" failed="0" error="0"/>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="1. Sign-in test" id="50a153ec-79be-439d-bd65-264d51cfaa5b" storage="test\ApplicationTrackerTests\test.js">
+      <Execution id="98aa9f5a-dda2-449d-b0b1-f48d36bc0319"/>
+      <TestMethod codeBase="test\ApplicationTrackerTests\test.js" name="1. Sign-in test" className="No suite"/>
+    </UnitTest>
+    <UnitTest name="2. check existing application" id="19906a98-888c-4a50-bb57-d63e097c0daf" storage="test\ApplicationTrackerTests\test.js">
+      <Execution id="569bd67d-a1bd-4001-a0ee-4eed7bcd5af8"/>
+      <TestMethod codeBase="test\ApplicationTrackerTests\test.js" name="2. check existing application" className="No suite"/>
+    </UnitTest>
+    <UnitTest name="3. create new application" id="c3166767-bfc5-4435-9ede-4e494123a9b8" storage="test\ApplicationTrackerTests\test.js">
+      <Execution id="e406ffca-1d89-4dfe-a9dd-642c64f2abdc"/>
+      <TestMethod codeBase="test\ApplicationTrackerTests\test.js" name="3. create new application" className="No suite"/>
+    </UnitTest>
+    <UnitTest name="4. edit existing application" id="b34aa91d-0833-43d6-95c7-0496db0e2021" storage="test\ApplicationTrackerTests\test.js">
+      <Execution id="50cbb8cf-0859-4f62-9a2c-ad02eef3061f"/>
+      <TestMethod codeBase="test\ApplicationTrackerTests\test.js" name="4. edit existing application" className="No suite"/>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda"/>
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="50a153ec-79be-439d-bd65-264d51cfaa5b" executionId="98aa9f5a-dda2-449d-b0b1-f48d36bc0319" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+    <TestEntry testId="19906a98-888c-4a50-bb57-d63e097c0daf" executionId="569bd67d-a1bd-4001-a0ee-4eed7bcd5af8" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+    <TestEntry testId="c3166767-bfc5-4435-9ede-4e494123a9b8" executionId="e406ffca-1d89-4dfe-a9dd-642c64f2abdc" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+    <TestEntry testId="b34aa91d-0833-43d6-95c7-0496db0e2021" executionId="50cbb8cf-0859-4f62-9a2c-ad02eef3061f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+  </TestEntries>
+  <Results>
+    <UnitTestResult testId="50a153ec-79be-439d-bd65-264d51cfaa5b" executionId="98aa9f5a-dda2-449d-b0b1-f48d36bc0319" testName="1. Sign-in test" computerName="jmccay3116" duration="00:00:00.000" startTime="2024-07-08T21:02:24.173Z" endTime="2024-07-08T21:02:24.173Z" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+    <UnitTestResult testId="19906a98-888c-4a50-bb57-d63e097c0daf" executionId="569bd67d-a1bd-4001-a0ee-4eed7bcd5af8" testName="2. check existing application" computerName="jmccay3116" duration="00:00:00.000" startTime="2024-07-08T21:02:24.173Z" endTime="2024-07-08T21:02:24.173Z" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+    <UnitTestResult testId="c3166767-bfc5-4435-9ede-4e494123a9b8" executionId="e406ffca-1d89-4dfe-a9dd-642c64f2abdc" testName="3. create new application" computerName="jmccay3116" duration="00:00:00.000" startTime="2024-07-08T21:02:24.173Z" endTime="2024-07-08T21:02:24.173Z" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+    <UnitTestResult testId="b34aa91d-0833-43d6-95c7-0496db0e2021" executionId="50cbb8cf-0859-4f62-9a2c-ad02eef3061f" testName="4. edit existing application" computerName="jmccay3116" duration="00:00:10.709" startTime="2024-07-08T21:02:24.173Z" endTime="2024-07-08T21:02:24.173Z" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d"/>
+  </Results>
+</TestRun>
